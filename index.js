@@ -5,4 +5,4 @@ function hellofromfinnize(msg) {
     return console.log(`Hello ${msg} from finnize`)
 }
 
-module.export = hellofromfinnize
+module.exports = hellofromfinnize

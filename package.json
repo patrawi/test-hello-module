@@ -1,6 +1,6 @@
 {
   "name": "@patrawi27/test-hello-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A function for saying hello to every developer in finnize ",
   "main": "index.js",
   "keywords": [
@@ -9,9 +9,9 @@
     "package",
     "patrawi27"
   ],
-  "private" : false,
-  "bugs" : {
-    "email" : "peaphee123456789@gmail.com"
+  "private": false,
+  "bugs": {
+    "email": "peaphee123456789@gmail.com"
   },
   "homepage": "https://github.com/patrawi/test-hello-module",
   "author": "Patrawi Wareetanyarat",
