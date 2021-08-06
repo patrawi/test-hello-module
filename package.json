@@ -1,12 +1,19 @@
 {
   "name": "@patrawi27/test-hello-module",
   "version": "1.0.0",
-  "description": "",
+  "description": "A function for saying hello to every developer in finnize ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [
+    "testing",
+    "npm",
+    "package",
+    "patrawi27"
+  ],
+  "private" : false,
+  "bugs" : {
+    "email" : "peaphee123456789@gmail.com"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "homepage": "https://github.com/patrawi/test-hello-module",
+  "author": "Patrawi Wareetanyarat",
+  "license": "MIT"
 }
